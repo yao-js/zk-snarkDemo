@@ -1,1 +1,1 @@
-# zk-snarkDemo
+# zk-snarksDemo
